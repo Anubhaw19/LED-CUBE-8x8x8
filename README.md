@@ -2,7 +2,7 @@
 a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
 <p align="left">
   <img  src=snap_shots/img1.jpeg><br>
-  - figure -A led cube in Action.
+  - A led cube in Action.
 </p>
 
 
