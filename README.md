@@ -6,4 +6,4 @@ a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
  - A led cube in Action
  
  ## Final Result 👇
- <iframe width="560" height="315" src="https://www.youtube.com/embed/BIYr0ZdlVQI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/BIYr0ZdlVQI/maxresdefault.jpg)](https://youtu.be/BIYr0ZdlVQI)
