@@ -47,7 +47,7 @@ So in the end I had (8x8) 64 anodes and 8(one from each layer) common cathodes. 
   </p><br>
   
    <p align="left">
-  <img  src=snap_shots/img4.jpeg><br>
+  <img  src=snap_shots/img4.jpg><br>
 
    - Structure of 8x8x8 LedCube
 </p>
@@ -59,7 +59,7 @@ I searched a lot for a proper circuit diagram, and finally, the one provided in 
 
  </p><br>
    <p align="left">
-  <img  src=snap_shots/img5.jpeg><br>
+  <img  src=snap_shots/img5.jpg><br>
 
    - a circuit made from scratch.
 </p>
