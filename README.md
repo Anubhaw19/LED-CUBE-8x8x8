@@ -43,7 +43,12 @@ a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
 9: 5V 2Amp power supply<br>
 it is more difficult for making an RGB LedCube, so I decided to use a color combination of red, yellow, green, and blue LEDs, and made the whole cube by maintaining the symmetrical pattern, the result was pretty awesome, here I would suggest you, not to use any wire which is less than 20AWG, because, you will face difficulty when you start making the cube. <br>
 in each of eight layers consisting of (8x8) LEDs, I connected cathode(negative) of all LEDs together, and connected anode(positive) of all LEDs(8, one from each layer) which were in the same column, together.
-So in the end I had (8x8) 64 anodes and 8(one from each layer) common cathodes. Make sure that you have checked all the LEDs before making the structure, also check for proper connection of wires.
+So in the end I had (8x8) 64 anodes and 8(one from each layer) common cathodes. Make sure that you have checked all the LEDs before making the structure, also check for proper connection of wires.<br>
+these tutorials are very helpful for building the structure:<br>
+
+- *https://youtu.be/mN5JWQUfrxY*<br>
+- *https://youtu.be/JqBGBm2iza8*<br>
+
   </p><br>
   
    <p align="left">
