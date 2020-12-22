@@ -16,7 +16,7 @@ a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
   </p><br>
  
  <p align="left">
-  <img  src=snap_shots/img2.jpeg width="1280px" height="640px"><br>
+  <img  src=snap_shots/img2.jpeg width="1280" height="640"><br>
   
   - Structure of a small 3x3x3 led cube.
 </p>
@@ -24,7 +24,7 @@ a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
  after building the small cube ,I pluged the arduino to my laptop and it started working fine👍
   </p><br>
    <p align="left">
-  <img  src=snap_shots/img3.jpeg><br>
+  <img  src=snap_shots/img3.jpeg width="1280" height="640"><br>
 
    - working of the small 3x3x3 LedCube
 </p>
@@ -47,7 +47,7 @@ So in the end I had (8x8) 64 anodes and 8(one from each layer) common cathodes. 
   </p><br>
   
    <p align="left">
-  <img  src=snap_shots/img4.jpg><br>
+  <img  src=snap_shots/img4.jpg width="1280" height="640"><br>
 
    - Structure of 8x8x8 LedCube
 </p>
@@ -59,7 +59,7 @@ I searched a lot for a proper circuit diagram, and finally, the one provided in 
 
  </p><br>
    <p align="left">
-  <img  src=snap_shots/img5.jpg><br>
+  <img  src=snap_shots/img5.jpg width="1280" height="640"><br>
 
    - a circuit made from scratch.
 </p>
@@ -70,8 +70,8 @@ I searched a lot for a proper circuit diagram, and finally, the one provided in 
 this was the most interesting part of the whole project, I searched a lot for a properly documented code but haven't got any code which worked for me, the way I wanted, though they were very helpful and most of them were similar, so "Kudos" to the programmer who wrote those code. I used one such code and did some changes, and it worked.<br>
 I had added the *continuous voxel drop* pattern, and still working to add more patterns like SineWaves, FireWorks, etc, if you have any idea how to implement those patterns, please contribute to this repo:<br>
 https://github.com/Anubhaw19/LED-CUBE-8x8x8
-<br>
-in addition to this, I'm working on its remote access via a Bluetooth module, through a mobile app.
+
+
 </p>
   
 
