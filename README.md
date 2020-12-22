@@ -17,6 +17,7 @@ a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
  
  <p align="left">
   <img  src=snap_shots/img2.jpeg><br>
+  
   - Structure of a small 3x3x3 led cube.
 </p>
 <p align="left">
@@ -29,7 +30,7 @@ a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
 </p>
 <p align="left">
 
-**CUBE STRUCTURE:**
+**CUBE STRUCTURE:** <br>
  then I arranged all the required components for making the 8x8x8 LedCube, these are as follows:<br>
 1: LEDs x 512 <br>
 2: 21 AWG  copper wire<br>
@@ -44,6 +45,7 @@ it is more difficult for making an RGB LedCube, so I decided to use a color comb
 in each of eight layers consisting of (8x8) LEDs, I connected cathode(negative) of all LEDs together, and connected anode(positive) of all LEDs(8, one from each layer) which were in the same column, together.
 So in the end I had (8x8) 64 anodes and 8(one from each layer) common cathodes. Make sure that you have checked all the LEDs before making the structure, also check for proper connection of wires.
   </p><br>
+  
    <p align="left">
   <img  src=snap_shots/img4.jpeg><br>
 
