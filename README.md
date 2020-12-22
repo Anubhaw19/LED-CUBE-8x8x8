@@ -16,7 +16,7 @@ a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
   </p><br>
  
  <p align="left">
-  <img  src=snap_shots/img2.jpeg><br>
+  <img  src=snap_shots/img2.jpeg width="1280px" height="640px"><br>
   
   - Structure of a small 3x3x3 led cube.
 </p>
