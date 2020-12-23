@@ -24,7 +24,7 @@ a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
  after building the small cube ,I pluged the arduino to my laptop and it started working fine👍
   </p><br>
    <p align="left">
-  <img  src=snap_shots/img3.jpeg width="1280" height="640"><br>
+  <img  src=snap_shots/img3.jpeg><br>
 
    - working of the small 3x3x3 LedCube
 </p>
