@@ -16,7 +16,7 @@ a three dimensional led display ,consisting of (8x8x8) ,512 led lights.
   </p><br>
  
  <p align="left">
-  <img  src=snap_shots/img2.jpeg width="1280" height="640"><br>
+  <img  src=snap_shots/img2.jpeg><br>
   
   - Structure of a small 3x3x3 led cube.
 </p>
@@ -52,7 +52,7 @@ these tutorials are very helpful for building the structure:<br>
   </p><br>
   
    <p align="left">
-  <img  src=snap_shots/img4.jpg width="1280" height="640"><br>
+  <img  src=snap_shots/img4.jpg><br>
 
    - Structure of 8x8x8 LedCube
 </p>
@@ -64,7 +64,7 @@ I searched a lot for a proper circuit diagram, and finally, the one provided in 
 
  </p><br>
    <p align="left">
-  <img  src=snap_shots/img5.jpg width="1280" height="640"><br>
+  <img  src=snap_shots/img5.jpg><br>
 
    - a circuit made from scratch.
 </p>
