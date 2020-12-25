@@ -74,7 +74,8 @@ I searched a lot for a proper circuit diagram, and finally, the one provided in 
 **CODE:**<br>
 this was the most interesting part of the whole project, I searched a lot for a properly documented code but haven't got any code which worked for me, the way I wanted, though they were very helpful and most of them were similar, so "Kudos" to the programmer who wrote those code. I used one such code and did some changes, and it worked.<br>
 I had added the *continuous voxel drop* pattern, and still working to add more patterns like SineWaves, FireWorks, etc, if you have any idea how to implement those patterns, please contribute to this repo:<br>
-https://github.com/Anubhaw19/LED-CUBE-8x8x8
+- https://github.com/Anubhaw19/LED-CUBE-8x8x8<br>
+there was a comment in my Youtube video from "Lizard Gecko" he suggested a platform named *Quadrum* which is a software for LED cube animations, go and check this out: - https://geckoanton.github.io/quadrum/index.html
 
 
 </p>
